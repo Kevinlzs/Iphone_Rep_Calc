@@ -1,2 +1,2 @@
 # Iphone Calculator Replica
-In this project I made a replica of the calculator app on the iphone.
+In this project I made a replica of the calculator app on the iphone. Using HTML, CSS, and JavaScript.
